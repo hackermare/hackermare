@@ -1,4 +1,4 @@
-![](https://sfconservancy.org/img/GiveUpGitHub.svg)
+[![](https://sfconservancy.org/img/GiveUpGitHub.svg)](https://sfconservancy.org/GiveUpGitHub/)
 
 You can see my projects on [Codeberg](https://codeberg.org/programmerpony), which is a free (libre) software forge.
 
