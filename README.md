@@ -1,7 +1,7 @@
-### Hay there /)
+![](https://sfconservancy.org/img/GiveUpGitHub.svg)
 
-Check out my [Codeberg](https://codeberg.org/programmerpony) too!
+You can see my projects on [Codeberg](), which is a free (libre) software forge.
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=programmer-pony&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+Free software should be developed using free software.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=programmer-pony&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+It's time to [give up on GitHub](https://sfconservancy.org/GiveUpGitHub/).
